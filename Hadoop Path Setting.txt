@@ -1,0 +1,23 @@
+User Variable
+
+Variable Name: HADOOP_HOME
+Variable Value: c:\Hadoop-2.3.0
+
+
+Variable Name: JAVA_HOME
+Variable Value: c:\jdk1.7.0_17
+
+
+System Variable
+
+
+Variable Name: Path
+Variable Value: ;c:\Hadoop-2.3.0\bin;c:\jdk1.7.0_17\bin;
+
+
+c:\hadoop-2.3.0\bin>hadoop namenode -format
+
+
+c:\hadoop-2.3.0\sbin>start-all.cmd
+
+c:\hadoop-2.3.0\sbin>hadoop -jar c:\hwork\
